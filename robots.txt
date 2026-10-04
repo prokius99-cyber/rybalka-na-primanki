@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prokius99-cyber.github.io/rybalka-na-primanki/sitemap.xml
